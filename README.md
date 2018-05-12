@@ -12,8 +12,8 @@ This repository will contain information relevant to the development of the Bitc
 -----------------------------------------------------------------------------------------------------------------
 2019 - 2020
 
-# Network Apps 
+# Network Apps (Proof of Stake, Smart & Private)
 
-1.) Private Payment System (Manual & Automated)
+1.) First Private Exchange "New Delta"
 
-2.) Private Exchange 
+2.) More coming soon
