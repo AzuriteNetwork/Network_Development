@@ -1,16 +1,18 @@
-Now - Q4 2018
-
 # Network Development
-This repository will contain information relevant to the development of the Bitcoin Cash Private network.
-
-1.) Blockchain (Proof of Stake) [Financial Ledger]
-
-2.) zkSNARK (Non-interactive zero-knowledge proof) [Privacy]
-
-3.) DAO (Decentralized Autonomous Organization) [Smart Contracts]
-
+This repository will contain information relevant to the development of the Azurite Network and possibly some links to Bitcoin Cash Private.
 -----------------------------------------------------------------------------------------------------------------
+Now - Q4 2019
+Development begins
+- Whitepaper
+- 
+
+
 2019 - 2020
+
+# DAO (Decentralized Autonomous Organization)
+1.) Test Net
+
+2.) Main Net
 
 # Network Apps (Proof of Stake, Smart & Private)
 
