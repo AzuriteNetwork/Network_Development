@@ -14,7 +14,7 @@ Development begins
 
 2.) Main Net
 
-# Network Apps (Proof of Stake, Smart & Private)
+# Network Apps (Proof of Work, Smart & Private)
 
 1.) First Private Exchange "New Delta"
 
